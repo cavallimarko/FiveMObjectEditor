@@ -1,0 +1,28 @@
+{
+  "assets": {
+    "ObjectEditor": {
+      "enabled": true,
+      "restartOnChange": true
+    },
+    "Class1": {
+      "enabled": true
+    }
+  },
+  "serverUpdateChannel": "recommended",
+  "systemResources": [
+    "basic-gamemode",
+    "map-skater",
+    "chat",
+    "playernames",
+    "mapmanager",
+    "spawnmanager",
+    "sessionmanager",
+    "baseevents",
+    "hardcap",
+    "webpack",
+    "yarn"
+  ],
+  "name": "Test1",
+  "createdAt": "2022-05-21T17:55:25.841Z",
+  "variables": {}
+}

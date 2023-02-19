@@ -1,0 +1,3 @@
+C:\CFXProjects\Test1\Test1\Class1\Client\bin\Release\net452\publish\Class1.Client.net.dll
+C:\CFXProjects\Test1\Test1\Class1\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll
+C:\CFXProjects\Test1\Test1\Class1\Client\bin\Release\net452\publish\MenuAPI.dll

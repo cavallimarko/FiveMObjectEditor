@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vk9QKpyiRoh3yDdRFZnkSrr5X/DDSaxZE0nLVa6taMAR2B19+ZoVRqFvyt/zHSjb32BtMiyyl9x3xhb0a779eg==",
+  "success": true,
+  "projectFilePath": "C:\\CFXProjects\\Test1\\Test1\\Class1\\Server\\Class1.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marko\\.nuget\\packages\\citizenfx.core.server\\1.0.5629\\citizenfx.core.server.1.0.5629.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

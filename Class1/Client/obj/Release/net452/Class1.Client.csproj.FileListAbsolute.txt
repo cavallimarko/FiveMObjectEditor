@@ -1,0 +1,10 @@
+C:\CFXProjects\Test1\Test1\Class1\Client\bin\Release\net452\Class1.Client.net.dll
+C:\CFXProjects\Test1\Test1\Class1\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+C:\CFXProjects\Test1\Test1\Class1\Client\obj\Release\net452\Class1.Client.AssemblyInfoInputs.cache
+C:\CFXProjects\Test1\Test1\Class1\Client\obj\Release\net452\Class1.Client.AssemblyInfo.cs
+C:\CFXProjects\Test1\Test1\Class1\Client\obj\Release\net452\Class1.Client.csproj.CoreCompileInputs.cache
+C:\CFXProjects\Test1\Test1\Class1\Client\obj\Release\net452\Class1.Client.csproj.CopyComplete
+C:\CFXProjects\Test1\Test1\Class1\Client\obj\Release\net452\Class1.Client.net.dll
+C:\CFXProjects\Test1\Test1\Class1\Client\bin\Release\net452\MenuAPI.dll
+C:\CFXProjects\Test1\Test1\Class1\Client\obj\Release\net452\Class1.Client.csproj.AssemblyReference.cache
+C:\CFXProjects\Test1\Test1\Class1\Client\obj\Release\net452\Class1.Client.GeneratedMSBuildEditorConfig.editorconfig

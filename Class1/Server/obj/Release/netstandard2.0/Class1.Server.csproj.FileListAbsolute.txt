@@ -1,0 +1,10 @@
+C:\CFXProjects\Test1\Test1\Class1\Server\bin\Release\netstandard2.0\Class1.Server.deps.json
+C:\CFXProjects\Test1\Test1\Class1\Server\bin\Release\netstandard2.0\Class1.Server.net.dll
+C:\CFXProjects\Test1\Test1\Class1\Server\bin\Release\netstandard2.0\Class1.Server.net.pdb
+C:\CFXProjects\Test1\Test1\Class1\Server\obj\Release\netstandard2.0\Class1.Server.AssemblyInfoInputs.cache
+C:\CFXProjects\Test1\Test1\Class1\Server\obj\Release\netstandard2.0\Class1.Server.AssemblyInfo.cs
+C:\CFXProjects\Test1\Test1\Class1\Server\obj\Release\netstandard2.0\Class1.Server.csproj.CoreCompileInputs.cache
+C:\CFXProjects\Test1\Test1\Class1\Server\obj\Release\netstandard2.0\Class1.Server.net.dll
+C:\CFXProjects\Test1\Test1\Class1\Server\obj\Release\netstandard2.0\Class1.Server.net.pdb
+C:\CFXProjects\Test1\Test1\Class1\Server\obj\Release\netstandard2.0\Class1.Server.csproj.AssemblyReference.cache
+C:\CFXProjects\Test1\Test1\Class1\Server\obj\Release\netstandard2.0\Class1.Server.GeneratedMSBuildEditorConfig.editorconfig

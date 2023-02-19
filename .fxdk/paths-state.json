@@ -1,0 +1,15 @@
+{
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Client": true,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Server": true,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Shared": true,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Client\\obj": false,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Client\\bin": false,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Client\\bin\\Debug": false,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Client\\bin\\Release": false,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Client\\bin\\Release\\net452": true,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Client\\bin\\Debug\\net452": true,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Client\\bin\\Release\\net452\\publish": false,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\Backup": false,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\.vs": false,
+  "C:\\CFXProjects\\Test1\\Test1\\Class1\\.vs\\Class1": false
+}

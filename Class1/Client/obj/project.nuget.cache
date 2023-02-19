@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRseyxDzzR4QCQ9P/WnFHfcFG1ZbhOOrOJQT6YSQfR1bCBJEMptgtwPduXjkZvPmY3eKQvMybGP1mthxB0wV3Q==",
+  "success": true,
+  "projectFilePath": "C:\\CFXProjects\\Test1\\Test1\\Class1\\Client\\Class1.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marko\\.nuget\\packages\\citizenfx.core.client\\1.0.5629\\citizenfx.core.client.1.0.5629.nupkg.sha512",
+    "C:\\Users\\Marko\\.nuget\\packages\\menuapi.fivem\\3.2.2\\menuapi.fivem.3.2.2.nupkg.sha512",
+    "C:\\Users\\Marko\\.nuget\\packages\\citizenfx.framework.client\\0.2.2\\citizenfx.framework.client.0.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
