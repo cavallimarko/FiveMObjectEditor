@@ -1,7 +1,11 @@
 # FiveMObjectEditor
 
 
-Features:
+https://user-images.githubusercontent.com/37544557/219977912-fe7b9ecd-005d-48d9-8525-2b825077a3fb.mp4
+
+
+
+### Features:
 Object editor list with object name, distance to player and ID info, when object is selected with Enter key submenu is shown with following options:
 edit multiplier: controls movement/rotation multiplier when manipulating with object. MoveX, MoveY and MoveZ sliders move object with left and right arrow keys and RotationX, RotationY and RotationZ rotate object. Reset rotation and delete object buttons are at the bottom. Pink outline marks currently selected object for editing.
 
@@ -19,21 +23,21 @@ Objects can be saved together in a prefab file that can be loaded, edited and sa
 
 https://user-images.githubusercontent.com/37544557/219976206-a3311a93-899a-4ca2-9dd1-31a584a2b19a.mp4
 
-Full command list:
+#### Full command list:
 
-Basic commands:
-/adeo -Open object editor menu: contains all spawned objects for editing
-/adobj [name] [freeze bool]- spawns object with specified name and freeze status, if no name is given object "prop_generator_03b" is spawned, if no freeze status is entered freeze status is set to true. (full list of hashes:https://gtahash.ru/) 
+### Basic commands:
+- /**adeo** -Open object editor menu: contains all spawned objects for editing
+- /**adobj** [name] [freeze bool]- spawns object with specified name and freeze status, if no name is given object "prop_generator_03b" is spawned, if no freeze status is entered freeze status is set to true. (full list of hashes:https://gtahash.ru/) 
 
-Bulk edit:
-/addelallobjs- deletes all spawned object currently in object editor menu
-/addeleteobjrange [range]- deletes spawned objects with specified radius from the player, if no radius is given defualt radius of 10 meters is used.
-/admoveobjects [x][y][z]- moves all spawned object simultaneusly by specified x,y and z offset, if for some coord is missing its value will be 0(e.g /admoveobjets 1 1  will move object only on x and y, z offset will be 0)
+### Bulk edit:
+- /**addelallobjs**- deletes all spawned object currently in object editor menu
+- /**addeleteobjrange** [range]- deletes spawned objects with specified radius from the player, if no radius is given defualt radius of 10 meters is used.
+- /**admoveobjects** [x][y][z]- moves all spawned object simultaneusly by specified x,y and z offset, if for some coord is missing its value will be 0(e.g /admoveobjets 1 1  will move object only on x and y, z offset will be 0)
 
-Prefabs: file containing objects and their positions and rotations.
-/adlistprefabs -lists all available prefabs on the server with the name of their author
-/adsaveprefab [filename]- saves currently spawned objects in object editor on the server with the specified name. If no name is present test.prefab filename is used. 
-/adspawnprefab [filename] -  spawns prefab with the specified name. If no name is present test.prefab filename is used. 
-/adeditprefab [filename]  -  spawns prefab with the specified name in object editor for editing. If no name is present test.prefab filename is used. 
+### Prefab, file containing objects and their positions and rotations:
+- /**adlistprefabs** -lists all available prefabs on the server with the name of their author
+- /**adsaveprefab** [filename]- saves currently spawned objects in object editor on the server with the specified name. If no name is present test.prefab filename is used. 
+- /**adspawnprefab** [filename] -  spawns prefab with the specified name. If no name is present test.prefab filename is used. 
+- /**adeditprefab** [filename]  -  spawns prefab with the specified name in object editor for editing. If no name is present test.prefab filename is used. 
 
-/addelspawnedprefabs - deletes all spawned prefab objects that are not available for editing.
+- /**addelspawnedprefabs** - deletes all spawned prefab objects that are not available for editing.
